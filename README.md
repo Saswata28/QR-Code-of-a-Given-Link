@@ -1,5 +1,4 @@
 # QR-Code-of-a-Given-Link
-Hey there, You can create a QR code of any link with this program.
 hey there, You can use this simple Python code to convert a given link to a QR code image(png file).
 To use this simply open your terminal and type the following:
 
