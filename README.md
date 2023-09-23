@@ -23,8 +23,8 @@ Step 4) Run the program:
 
 For Windows: 
           
-          python 
+          python qrcode_from_link.py
 For Linux and OSX:
           
-          python3
+          python3 qrcode_from_link.py
           
